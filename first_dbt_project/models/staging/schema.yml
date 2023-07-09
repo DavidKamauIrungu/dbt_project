@@ -1,0 +1,8 @@
+version: 2
+
+models:
+  - name: first_dbt_model
+    description: Table from 538 that displays football matches and predictions about each match.
+
+  - name: second_dbt_model
+    description: Table from 538 that displays a teams ranking worldwide
